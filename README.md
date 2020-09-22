@@ -1,3 +1,3 @@
 # testgit
-hello world！hello world！ worldworldworldworld
+hello world！hello world！
 hello see you again！
